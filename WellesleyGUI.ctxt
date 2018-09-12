@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WellesleyGUI
+comment0.text=\r\n\ WellesleyGUI\ implements\ the\ GUI\ and\ allows\ the\ user\ to\ explore\ Wellesley\r\n\r\n\ @author\ Silvia\ Zeamer\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ which\ creates\ a\ new\ instance\ of\ WellesleyAdventure\ and\ displays\r\n\ it.\r\n
+numComments=2

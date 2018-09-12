@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BinarySearchTree
+comment1.params=element
+comment1.target=void\ add(java.lang.Comparable)
+comment2.params=target
+comment2.target=java.lang.Comparable\ find(java.lang.Comparable)
+comment3.params=
+comment3.target=java.lang.Comparable\ findMin()
+comment4.params=
+comment4.target=java.lang.Comparable\ findMax()
+comment5.params=target
+comment5.target=java.lang.Comparable\ remove(java.lang.Comparable)
+numComments=6

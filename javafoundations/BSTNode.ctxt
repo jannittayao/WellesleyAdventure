@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BSTNode
+comment1.params=element
+comment1.target=BSTNode(java.lang.Comparable)
+comment2.params=item
+comment2.target=void\ add(java.lang.Comparable)
+comment3.params=target
+comment3.target=BSTNode\ find(java.lang.Comparable)
+comment4.params=target
+comment4.target=BSTNode\ remove(java.lang.Comparable)
+comment5.params=
+comment5.target=BSTNode\ getSuccessor()
+numComments=6

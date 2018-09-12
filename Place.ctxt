@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Place
+comment0.text=\r\n\ Place\ class\ for\ place\ vertices\ on\ the\ Map\ graph\r\n\ CS\ 230\ Final\ Project\:\ Choose\ Your\ Own\ Wellesley\ Adventure\r\n\r\n\ @Isabelle\ Chun\r\n\ @5-7-18\r\n
+comment1.params=name\ descrip\ photoFileName
+comment1.target=Place(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Place\r\n\ @param\ name\ is\ the\ name\ of\ the\ Place\r\n\ @param\ descrip\ is\ a\ one-sentence\ fun\ fact\ for\ this\ place\r\n\ @param\ photoFileName\ is\ a\ jpg\ from\ the\ Photographs\ folder.\ photo\ of\ this\ place.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescrip()
+comment2.text=\r\n\ @returns\ fun\ fact\ string\ for\ this\ place\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPhoto()
+comment3.text=\r\n\ \r\n\ @returns\ string\ of\ file\ of\ photo\ of\ this\ place\r\n
+comment4.params=p
+comment4.target=boolean\ samePlace(Place)
+comment4.text=\r\n\ compares\ 2\ places\ to\ see\ if\ they\ are\ the\ same\r\n\ @returns\ true\ if\ places\ have\ same\ name\r\n\ @returns\ false\ if\ places\ do\ not\ have\ same\ name\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ @returns\ name\ of\ place\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ArrayBag
+comment1.params=
+comment1.target=ArrayBag()
+comment2.params=element
+comment2.target=void\ add(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ remove()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=
+comment6.target=java.util.Iterator\ iterator()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=void\ expandCapacity()
+numComments=9

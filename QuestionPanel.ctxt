@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QuestionPanel
+comment0.text=\r\n\ Class\ which\ displays\ a\ location\ in\ the\ binary\ decision\ tree\ which\r\n\ the\ user\ follows\ through\ a\ day\ at\ Wellesley.\ Appears\ differently\ \r\n\ depending\ on\ wether\ the\ current\ location\ is\ a\ leaf.\r\n\r\n\ @Silvia\ Zeamer\r\n\ @5-16-2017\r\n
+comment1.params=q\ a
+comment1.target=QuestionPanel(Question,\ ChooseYourOwnAdventure)
+comment1.text=\r\n\ Constructor\ which\ takes\ a\ Question\ q\ and\ a\ ChooseYourOwnAdventure\r\n\ object\ a\ and\ displays\ either\ a\ question\ with\ two\ answer\ options\r\n\ or\ ana\ analysis\ of\ the\ user\u015B\ decisions\ depending\ on\ the\ location\r\n\ in\ the\ ChooseYourOwnAdventure\ binary\ tree.\r\n\ \r\n\ @params\ Question\ q,\ ChooseYourOwnAdventure\ a\r\n
+comment2.params=
+comment2.target=java.util.LinkedList\ getButtons()
+comment2.text=\r\n\ Returns\ a\ LinkedList\ of\ JButtons\ contained\ in\ the\ Question\r\n\ Panel\r\n\ \r\n\ @params\ none\r\n\ @return\ LinkedList<JButton>\r\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ImagePanel
+comment0.text=\r\n\ Displays\ an\ image\ which\ is\ read\ from\ a\ file\ location\r\n\r\n\ @Silvia\ Zeamer\r\n\ @5-15-2018\r\n
+comment1.params=imageFile
+comment1.target=ImagePanel(java.lang.String)
+comment1.text=\r\n\ Constructor\ which\ takes\ an\ imageFile\ name\ and\ sets\ up\ a\ JPanel\r\n\ containing\ the\ image.\r\n\ \r\n\ @params\ String\ imageFile\ the\ file\ name\ of\ the\ image\ to\ display\r\n
+comment2.params=imageFile
+comment2.target=void\ initImagePanel(java.lang.String)
+comment2.text=\r\n\ Helper\ method\ which\ reads\ an\ image\ file\ name\ and\ sets\ up\ the\ image\r\n\ in\ addition\ to\ setting\ the\ appearance\ of\ the\ panel\r\n\ \r\n\ @params\ String\ imageFile\r\n\ @return\ void\r\n
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment3.text=\r\n\ Overrides\ paintComponent\ to\ add\ the\ image\ read\ in\ initImagePanel\r\n\ to\ the\ JPanel\r\n
+numComments=4

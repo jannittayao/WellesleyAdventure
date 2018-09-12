@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LinkedMaxHeap
+comment1.params=
+comment1.target=LinkedMaxHeap()
+comment2.params=element
+comment2.target=LinkedMaxHeap(java.lang.Comparable)
+comment3.params=element
+comment3.target=void\ add(java.lang.Comparable)
+comment4.params=
+comment4.target=java.lang.Comparable\ removeMax()
+comment5.params=
+comment5.target=java.lang.Comparable\ getMax()
+numComments=6

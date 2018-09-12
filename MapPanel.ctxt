@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MapPanel
+comment0.text=\r\n\ MapPanel\ is\ used\ in\ WellesleyGUI\ to\ display\ map\ of\ Wellesley\ campus\ with\ buttons\r\n\ for\ places\ in\ WellesleyMap\ graph\r\n\r\n\ @Silvia\r\n\ @5-16-18\r\n
+comment1.params=
+comment1.target=MapPanel()
+comment1.text=\r\n\ Constructor\ of\ MapPanel\ objects,\ calls\ initMap\ helper\ method\r\n
+comment2.params=
+comment2.target=void\ initMap()
+comment2.text=\r\n\ Helper\ method\ for\ MapPanel\ constructor\r\n\ \r\n
+comment3.params=
+comment3.target=java.util.LinkedList\ getLinks()
+comment3.text=\r\n\ @returns\ list\ of\ all\ buttons\ on\ MapPanel\r\n
+numComments=4

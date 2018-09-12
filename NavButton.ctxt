@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NavButton
+comment0.text=\r\n\ NavButton\ is\ a\ button\ for\ the\ NavBar\ panel.\r\n\r\n\ @Silvia\r\n\ @5-15-18\r\n
+comment1.params=title
+comment1.target=NavButton(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ NavButton\ calls\ initNavButton\ helper\r\n
+comment2.params=
+comment2.target=void\ initNavButton()
+comment2.text=\r\n\ Helper\ for\ NavButton\ to\ style\ the\ button\r\n
+numComments=3

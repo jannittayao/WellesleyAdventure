@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HeapNode
+comment1.params=element
+comment1.target=HeapNode(java.lang.Comparable)
+comment2.params=
+comment2.target=HeapNode\ getParent()
+comment3.params=parent
+comment3.target=void\ setParent(HeapNode)
+comment4.params=last
+comment4.target=HeapNode\ getParentAdd(HeapNode)
+comment5.params=last
+comment5.target=void\ heapifyAdd(HeapNode)
+comment6.params=last
+comment6.target=HeapNode\ getNewLastNode(HeapNode)
+comment7.params=root
+comment7.target=void\ heapifyRemove(HeapNode)
+comment8.params=node
+comment8.target=HeapNode\ largerChild(HeapNode)
+numComments=9

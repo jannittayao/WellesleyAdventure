@@ -1,0 +1,46 @@
+
+/**
+ * Place class for place vertices on the Map graph
+ * CS 230 Final Project: Choose Your Own Wellesley Adventure
+ *
+ * @Isabelle Chun
+ * @5-7-18
+ */
+public class Place
+{
+    // instance variables
+    private String name, descrip, photoFileName;
+    
+    /**
+     * Constructor for objects of class Place
+     */
+    public Place(String name, String descrip, String photoFileName)
+    {
+        this.name = name;
+        this.descrip = descrip;
+        this.photoFileName = photoFileName;
+    }
+    
+    //SETTERS---------------------------------
+    public void updateDescrip(String newDescrip) {
+        descrip = newDescrip; }
+    
+    public void updatePhoto(String newPhoto) {
+        photoFileName = newPhoto; }
+    
+    //GETTERS---------------------------------
+    public String getName() {
+        return name; }
+    
+    public String getDescrip() {
+        return descrip; }
+    
+    public String getPhoto() {
+        return photoFileName; }
+    
+    public String toString() {
+        return name;
+        //return name + "\t" + descrip + "\tphoto file: " + photoFileName;
+    }
+    
+}

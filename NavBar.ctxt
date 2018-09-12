@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=NavBar
+comment0.text=\r\n\ NavBar\ is\ a\ panel\ that\ remains\ on\ the\ left\ of\ the\ GUI\ throughout\ our\ program.\r\n\ It\ contains\ NavButtons\ Home,\ Map,\ Enter,\ and\ About\r\n\r\n\ @Silvia\r\n\ @5-15-18\r\n
+comment1.params=
+comment1.target=NavBar()
+comment1.text=\r\n\ Constructor\ for\ NavBar\ calls\ helper\ method\ initNavBar\r\n
+comment2.params=
+comment2.target=void\ initNavBar()
+comment2.text=\r\n\ creates\ buttons\ and\ adds\ to\ NavBar\ panel\r\n\ sets\ layout\ of\ NavBar\r\n
+comment3.params=
+comment3.target=javax.swing.JButton\ getHome()
+comment3.text=\r\n\ @return\ NavButton\ with\ title\ Home\r\n
+comment4.params=
+comment4.target=javax.swing.JButton\ getMap()
+comment4.text=\r\n\ @return\ NavButton\ with\ title\ Map\r\n
+comment5.params=
+comment5.target=javax.swing.JButton\ getEnter()
+comment5.text=\r\n\ @return\ NavButton\ with\ title\ Enter\r\n
+comment6.params=
+comment6.target=javax.swing.JButton\ getAbout()
+comment6.text=\r\n\ @return\ NavButton\ with\ title\ About\r\n
+numComments=7

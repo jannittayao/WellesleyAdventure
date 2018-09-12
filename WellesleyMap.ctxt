@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=WellesleyMap
+comment0.text=\r\n\ Map\ of\ Wellesley\ with\ place\ vertices\ and\ arcs\ between\ connected\ places.\r\n\r\n\ @Isabelle\ Chun\r\n\ @5-8-18\r\n
+comment1.params=
+comment1.target=WellesleyMap()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Map,\ adds\ all\ vertices\ and\ arcs\ by\ scanning\ 2\ files.\r\n\ place_list.txt\ is\ a\ text\ file\ with\ information\ for\ each\ new\ vertex\ to\ add\ to\ map.\r\n\ place_list.txt\ is\ in\ alphabetical\ order\ by\ name\ of\ Place.\r\n\ arcs_list.txt\ is\ a\ text\ file\ with\ a\ line\ for\ each\ arc,\ as\ 2\ ints.\r\n\ Ints\ in\ arcs_list.txt\ are\ based\ on\ order\ the\ places\ were\ entered,\ alphabetical\ order.\r\n
+comment2.params=placeName
+comment2.target=Place\ getVertex(java.lang.String)
+comment2.text=\r\n\ getVertex\ searches\ for\ Place\ with\ same\ name\ as\ argument\ passed,\r\n\ and\ returns\ that\ Place\ or\ null\ if\ not\ found\ in\ vertices.\r\n\ \r\n\ @returns\ Place\ of\ same\ name\ as\ parameter\r\n
+comment3.params=placeName
+comment3.target=void\ setCurrentPlace(java.lang.String)
+comment3.text=\r\n\ updates\ currentPlace\ instance\ var\r\n\ @params\ placeName\ is\ a\ placeName\ of\ a\ Place\ vertex\r\n
+comment4.params=
+comment4.target=Place\ getCurrentPlace()
+comment5.params=
+comment5.target=java.util.LinkedList\ getPlaces()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ returns\ string\ representation\ of\ Wellesley\ map,\ calls\ AdjListsGraphPlus'\ toString().\r\n
+comment7.params=vertex
+comment7.target=java.util.LinkedList\ requestNeighbors(Place)
+comment7.text=\r\n\ returns\ a\ LinkedList<Place>\ of\ all\ vertices\ adjacent\ to\ the\ vertex\ given.\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

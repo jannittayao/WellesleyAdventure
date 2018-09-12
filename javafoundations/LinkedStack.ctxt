@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=LinkedStack
+comment1.params=
+comment1.target=LinkedStack()
+comment1.text=\n\ \ \ \ Creates\ an\ empty\ stack\ using\ the\ default\ capacity.\n
+comment2.params=
+comment2.target=java.lang.Object\ pop()
+comment2.text=\n\ \ \ \ Removes\ the\ element\ at\ the\ top\ of\ this\ stack\ and\ returns\ a\n\ \ reference\ to\ it.\ Throws\ an\ EmptyCollectionException\ if\ the\n\ \ stack\ contains\ no\ elements.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ \ Returns\ a\ string\ representation\ of\ this\ stack.\n
+comment4.params=element
+comment4.target=void\ push(java.lang.Object)
+comment4.text=\n\ \ Pushes\ an\ element\ onto\ the\ stack.\n
+comment5.params=
+comment5.target=java.lang.Object\ peek()
+comment5.text=\ Takes\ a\ look\ at\ the\ topmost\ element\ of\ the\ stack\n\ without\ deleting\ it\n\ @return\ T\n
+comment6.params=
+comment6.target=boolean\ isEmpty()
+comment6.text=\n\ \ Checks\ if\ stack\ is\ empty\n
+comment7.params=
+comment7.target=int\ size()
+comment7.text=\n\ \ Returns\ the\ number\ of\ eleements\ in\ the\ stack\n
+numComments=8

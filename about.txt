@@ -1,0 +1,10 @@
+Explore (map mode) Directions
+Choose Explore mode to learn about buildings and fun places on Wellesley’s campus!
+Click on buildings listed in the legend at the bottom left corner of the map to learn about them.
+You’ll find a fun fact and a list of other places they’re connected to!
+
+Quiz mode Directions
+Choose quiz mode to take a short quiz that takes you through a day of activities at Wellesley!
+Click on your answer to advance to the next question.
+Once you’re done, you’ll find out what portion of your day was spent on academics, having fun with friends, and on self-care.
+You’ll also get a list of places you visited during your day at Wellesley.

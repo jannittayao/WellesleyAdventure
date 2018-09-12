@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=InfoBar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ InfoBar\ here.\r\n\r\n\ @\ Silvia\ Zeamer\r\n\ @\ 5-15-18\r\n
+comment1.params=buttons\ title
+comment1.target=InfoBar(java.util.LinkedList,\ java.lang.String)
+comment1.text=\r\n\ InfoBar\ constructor\r\n\ @param\ buttons\ is\ a\ list\ of\ every\ button\ that\ an\ InfoBar\ will\ contain\r\n\ @param\ title\ is\ the\ title\ of\ this\ InfoBar\ panel\r\n
+comment2.params=buttons\ title
+comment2.target=void\ initInfo(java.util.LinkedList,\ java.lang.String)
+comment2.text=\r\n\ initInfo\ is\ a\ helper\ method\ for\ InfoBar\ constructor.\r\n\ updates\ the\ contents\ of\ an\ InfoBar\ panel.\r\n\ \r\n\ @params\ buttons\ is\ a\ list\ of\ \r\n\ @params\ title\ is\ the\ main\ header\ of\ this\ panel.\r\n
+comment3.params=title\ info
+comment3.target=InfoBar(java.lang.String,\ java.lang.String)
+comment4.params=queue\ info\ title
+comment4.target=InfoBar(javafoundations.ArrayQueue,\ java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=java.util.LinkedList\ getButtons()
+numComments=6
